@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1704.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyThirdMVC", "MyThirdMVC\MyThirdMVC.csproj", "{3E184223-6EE3-4962-92D6-721096609A03}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{23777401-601A-42CD-87B4-1D5EC7897441}"
+	ProjectSection(SolutionItems) = preProject
+		appsettings.json = appsettings.json
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3E184223-6EE3-4962-92D6-721096609A03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E184223-6EE3-4962-92D6-721096609A03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E184223-6EE3-4962-92D6-721096609A03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E184223-6EE3-4962-92D6-721096609A03}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {159D15E2-0F71-4BA3-B740-440BB26F046D}
+	EndGlobalSection
+EndGlobal
